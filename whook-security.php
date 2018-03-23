@@ -35,7 +35,7 @@ add_action('admin_enqueue_scripts','Whook_LoadScripts');
 function whook_jquery_plg_url() {
 ?>
 <script type="text/javascript">
-	var Whook_Plg_Url = '<?php echo plugins_url('whook-security'); ?>';
+	var Whook_Plg_Url = '<?php echo plugins_url('whook-security.php',__FILE__); ?>';
 </script>
 <?php
 }
