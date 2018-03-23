@@ -1,4 +1,4 @@
-=== Vulnerability Alerts ===
+=== Whook Security ===
 
 Contributors: D'arteweb Tags: security, vulnerability, wpscan, hack, scan, exploit, secure
 
